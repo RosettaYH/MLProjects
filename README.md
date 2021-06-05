@@ -27,6 +27,7 @@
 
 ### Recommender System
 1. Movie Recommender System
+2. Book Recommender System
 
 ### Healthcare
 1. Breast Cancer Diagnosis
@@ -36,3 +37,4 @@
 5. Chest X-Rays Pneumonia Classification
 6. DNA Sequencing
 7. Malaria Detection
+8. Skin Cancer Classification
