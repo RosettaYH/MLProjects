@@ -7,6 +7,7 @@
 4. Credit Card Fraud Detection
 5. Iris Classification
 6. Medical Cost Prediction
+7. Banknote Authentication
 
 ### Computer Vision
 1. Handwritten Digit Classification
@@ -14,6 +15,7 @@
 3. Lane Detection
 4. Weather Classification
 5. Flowers Recognition
+6. Image Caption Generator
 
 ### Natural Language Processing
 1. IMDB Sentiment Analysis
